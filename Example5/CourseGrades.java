@@ -2,6 +2,9 @@
  * Created by Jeff on 2/18/2016.
  */
 
+//If-else: Line 46 & 50
+//Decimal format: Line 13
+
 import java.text.DecimalFormat;
 
 public class CourseGrades {
