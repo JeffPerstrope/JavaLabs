@@ -2,11 +2,12 @@
  * Created by Jeff on 2/4/2016.
  */
  
- //Overloaded methods: Line 20 & 46
- //Overloaded constructor: Line 71 & 77
- //Running total: Line 22 & 36
- //Override equals method: Line 92
- //Sequential search: Line 20 or 46
+ //Overloaded methods: Line 21 & 47
+ //Overloaded constructor: Line 72 & 78
+ //Running total: Line 23 & 37
+ //Override equals method: Line 93
+ //Sequential search: Line 21 or 47
+ //Comparing string: Line 30
  
 public class Month {
 
