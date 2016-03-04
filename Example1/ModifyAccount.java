@@ -2,8 +2,9 @@
  * Created by Jeff on 2/25/2016.
  */
  
- //Do-while loop: Line 23
- //If statement: Line 49
+ //Do-while loop: Line 24
+ //If statement: Line 50
+ //Sentinal value: Line 59
 
 import java.io.*;
 import java.util.Scanner;
