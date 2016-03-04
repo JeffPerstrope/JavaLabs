@@ -1,6 +1,9 @@
 /**
  * Created by Jeff on 2/22/2016.
  */
+ 
+ //Throw exception: Line 15
+ 
 public class TestScores {
 
     public TestScores(double array[])
