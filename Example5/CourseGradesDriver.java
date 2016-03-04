@@ -2,6 +2,8 @@
  * Created by Jeff on 2/18/2016.
  */
 
+//While loop: Line 23
+
 import java.util.Scanner;
 
 public class CourseGradesDriver {
