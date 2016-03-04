@@ -2,7 +2,8 @@
  * Created by Jeff on 2/25/2016.
  */
  
- //Do-while loop: Line 22
+ //Do-while loop: Line 23
+ //If statement: Line 49
 
 import java.io.*;
 import java.util.Scanner;
