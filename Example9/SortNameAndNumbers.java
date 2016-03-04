@@ -6,8 +6,9 @@ import java.util.ArrayList;
  * Created by Jeff on 3/4/2016.
  */
  
- //Array list: Line 15
- //Selectional sort: Lines 43-51
+ //Array list: Line 16
+ //Selectional sort: Lines 44-52
+ //Implementation: Line 13
  
 public class SortNameAndNumbers implements DisplayNames {
     @Override
