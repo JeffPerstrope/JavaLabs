@@ -1,6 +1,9 @@
 /**
  * Created by Jeff on 2/3/2016.
  */
+ 
+ //Using static members: Lines 9, 10, & 11
+ 
 public class AreaDriver {
     public static void main(String[] args) {
         System.out.printf("Circle area: %.2f\n", Area.shapeArea(5.0));
