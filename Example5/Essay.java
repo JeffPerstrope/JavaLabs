@@ -1,6 +1,9 @@
 /**
  * Created by Jeff on 2/18/2016.
  */
+ 
+ //Extend parent class: Line 7
+ 
 public class Essay extends GradedActivity {
 
     private double grammar, spelling, correctLength, content;
