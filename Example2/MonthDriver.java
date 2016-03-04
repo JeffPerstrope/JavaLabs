@@ -1,6 +1,8 @@
 /**
  * Created by Jeff on 2/4/2016.
  */
+ 
+ //If else-if: Line 25 & 30
 
 import java.util.Scanner;
 
