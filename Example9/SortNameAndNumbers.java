@@ -5,6 +5,10 @@ import java.util.ArrayList;
 /**
  * Created by Jeff on 3/4/2016.
  */
+ 
+ //Array list: Line 15
+ //Selectional sort: Lines 43-51
+ 
 public class SortNameAndNumbers implements DisplayNames {
     @Override
     public void display() {
