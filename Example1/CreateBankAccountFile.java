@@ -1,6 +1,9 @@
 /**
  * Created by Jeff on 2/25/2016.
  */
+ 
+ //Array: Line 17
+ //For loop: Line 22
 
 import java.io.*;
 import java.util.Scanner;
